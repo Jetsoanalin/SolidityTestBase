@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "ganache-cli": "6.8.1",
-    "mocha": "^7.0.0",
+    "mocha": "^10.2.0",
     "solc": "^0.5.10",
     "ethers": "^4.0.41",
     "fs-extra": "8.1.0"
